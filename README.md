@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+is+a+never+ending+journey+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+is+a+never+ending+journey+)](https://git.io/typing-svg) ...
 
 # 💫 About Me:
 I am currently working in the FitTracker project <br>I am looking to collaborate with MERN projects JS & Java based<br>You can ask me about coding challenges and frameworks <br>Coding can transform your entire lifestyle; once you try it, you never go back.<br>
