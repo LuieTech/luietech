@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+is+a+never+ending+journey+)](https://git.io/typing-svg)
 
 # 💫 About Me:
-I am currently building my portfolio and looking to collaborate on MERN stack projects and Java/Spring Boot development. You can ask me about coding challenges and frameworks. Coding can be addictive; once you try it, you never go back!
+I am currently learning TypeScript but also opened to collaborate on MERN stack projects and Java/Spring Boot development. You can ask me about coding challenges and frameworks. Coding can be addictive; once you try it, you never go back!
 
 
 ## 🌐 Socials:
